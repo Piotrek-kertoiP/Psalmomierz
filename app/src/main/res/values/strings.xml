@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Psalmomierz2</string>
+    <string name="main_view_text">Sorry, no psalms today :(</string>
+    <string name="action_settings">Settings</string>
+</resources>

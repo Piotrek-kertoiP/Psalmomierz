@@ -1,0 +1,2 @@
+rootProject.name='Psalmomierz2'
+include ':app'
